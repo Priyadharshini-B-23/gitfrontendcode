@@ -1,0 +1,49 @@
+
+
+
+.register {
+    width: 400px;
+    background: #fff;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 10 / 64%), 0 8px 16px rgb(0 10 0 / 34%);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-left: 30%;
+    align-items: center;
+    text-align: center;
+    background: url("../Code/Images/one.png") no-repeat ;
+    background-size: cover;
+   
+}
+
+.register > form input {
+    border-radius: 20px;
+    border: 2px solid lightgrey;
+    outline: none;
+    color: #1d2129;
+    margin: 2% 0;
+    width: 80%;
+    padding: 12px;
+    font-size: 16px;
+   
+}
+
+.head{
+    background: url("../Code/Images/two.png")no-repeat; 
+     background-size: cover;
+    width: 70%;
+    height: 25%;
+    padding-top: 40%;
+    font-size: 50px;
+    color: aqua;
+   
+}
+
+.line{
+    color: aqua;
+   align-content: center;
+}
+
+.input1{
+margin-top: 100px;
+}
